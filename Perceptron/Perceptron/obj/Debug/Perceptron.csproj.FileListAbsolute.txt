@@ -1,0 +1,10 @@
+C:\Users\공영재\Desktop\Work Space\Perceptron\Perceptron\bin\Debug\Perceptron.exe.config
+C:\Users\공영재\Desktop\Work Space\Perceptron\Perceptron\bin\Debug\Perceptron.exe
+C:\Users\공영재\Desktop\Work Space\Perceptron\Perceptron\bin\Debug\Perceptron.pdb
+C:\Users\공영재\Desktop\Work Space\Perceptron\Perceptron\obj\Debug\Perceptron.csprojAssemblyReference.cache
+C:\Users\공영재\Desktop\Work Space\Perceptron\Perceptron\obj\Debug\Perceptron.Form1.resources
+C:\Users\공영재\Desktop\Work Space\Perceptron\Perceptron\obj\Debug\Perceptron.Properties.Resources.resources
+C:\Users\공영재\Desktop\Work Space\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.GenerateResource.cache
+C:\Users\공영재\Desktop\Work Space\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.CoreCompileInputs.cache
+C:\Users\공영재\Desktop\Work Space\Perceptron\Perceptron\obj\Debug\Perceptron.exe
+C:\Users\공영재\Desktop\Work Space\Perceptron\Perceptron\obj\Debug\Perceptron.pdb
